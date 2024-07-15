@@ -1,23 +1,8 @@
-<!-- ## Hi there 👋 -->
+## RAFAEL LEAO
 
-<!--
-**Rafael-Leao-2024/Rafael-Leao-2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- Meu novo-->
-
-## **RAFAEL LEAO**
-## programador jr
+<div display="inline">
+    <h2>Cursando na Empresa Hastagtreinamentos &nbsp;&nbsp;<img  width=100px height=50px  src= "https://www.hashtagtreinamentos.com/wp-content/uploads/2022/05/Logo-Hashtag-Original-100x45px.png"/>&nbsp;&nbsp;</h2>    
+</div>
 
 ### algumas caracteristicas
 
@@ -25,32 +10,16 @@ Here are some ideas to get you started:
 - 🌎  Idioma portugues Brasil
 - 👨🏼‍💼  Ensino medio completo
 
-<div display="inline">
-    <p> Pega ai o</p> 
-      <a href= "http://wa.me/5581985436959">
-        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-      </a>
-    <p>Email: rafaelampaz6@gmail.com</p>
-</div>
-  
-### liguagem de programaçao
+### liguagem de programaçao, marcaçâo e IDEs
 
 <div display="inline">
-  <img  width=50px height= 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> 
-            <img  width=50px height= 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-                   
-  <img width=50px height= 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img  width=50px height= 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-</div>
-
-### IDEs
-
-  <div display= "inline">
-   <img width=50px height= 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-    <img  width=50px height= 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />    
-            <img width=50px height= 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
-          
-  </div>  
+    &nbsp;&nbsp;<img  width=50px height= 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />&nbsp;&nbsp;
+    &nbsp;&nbsp;<img width=50px height= 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp;&nbsp;
+    &nbsp;&nbsp;<img  width=50px height= 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;&nbsp;
+    &nbsp;&nbsp;<img width=50px height= 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />&nbsp;&nbsp;
+    &nbsp;&nbsp;<img  width=50px height= 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />&nbsp;&nbsp;
+    &nbsp;&nbsp;<img width=50px height= 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />&nbsp;&nbsp;
+</div>  
     
 <!---
 Rafaellleao/Rafaellleao is a ✨ special ✨ repository because its `perfilmarkdown.md` (this file) appears on your GitHub profile.
