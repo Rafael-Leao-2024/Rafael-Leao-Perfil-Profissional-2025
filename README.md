@@ -1,14 +1,14 @@
 ## RAFAEL LEAO
 
-<div display="inline">
-    <h2>Cursando na Empresa Hastagtreinamentos &nbsp;&nbsp;<img  width=100px height=50px  src= "https://www.hashtagtreinamentos.com/wp-content/uploads/2022/05/Logo-Hashtag-Original-100x45px.png"/>&nbsp;&nbsp;</h2>    
-</div>
-
-### algumas caracteristicas
+### Sobre  caracteristicas
 
 - 🖥️  **Programador iniciante**
 - 🌎  Idioma portugues Brasil
 - 👨🏼‍💼  Ensino medio completo
+
+<div display="inline">
+    <h2>Cursando na Empresa Hastagtreinamentos &nbsp;&nbsp;<img  width=100px height=50px  src= "https://www.hashtagtreinamentos.com/wp-content/uploads/2022/05/Logo-Hashtag-Original-100x45px.png"/>&nbsp;&nbsp;</h2>    
+</div>
 
 ### liguagem de programaçao, marcaçâo e IDEs
 
@@ -18,7 +18,6 @@
     &nbsp;&nbsp;<img  width=50px height= 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;&nbsp;
     &nbsp;&nbsp;<img width=50px height= 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />&nbsp;&nbsp;
     &nbsp;&nbsp;<img  width=50px height= 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />&nbsp;&nbsp;
-    &nbsp;&nbsp;<img width=50px height= 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />&nbsp;&nbsp;
 </div>  
     
 <!---
