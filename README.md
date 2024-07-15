@@ -9,7 +9,8 @@ Sempre em busca de novos desafios e oportunidades de crescimento, estou aqui par
 
 
 <div display="inline">
-    <h2>Cursando na Empresa Hastagtreinamentos &nbsp;&nbsp;<img  width=100px height=50px  src= "https://www.hashtagtreinamentos.com/wp-content/uploads/2022/05/Logo-Hashtag-Original-100x45px.png"/>&nbsp;&nbsp;</h2>    
+    <h2>Cursando na Empresa Hastagtreinamentos</h2> &nbsp;&nbsp;<img  width=100px height=50px  src= "https://www.hashtagtreinamentos.com/wp-content/uploads/2022/05/Logo-Hashtag-Original-100x45px.png"/>&nbsp;&nbsp;
+    Cursos em andamentos  Python Impressionador 49% & SQL Impressionador 20%
 </div>
 
 ### liguagem de programaçao, marcaçâo e IDEs
