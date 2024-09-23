@@ -7,7 +7,7 @@ Minha dedicação e atenção aos detalhes garantem que nossos parceiros recebam
 Sempre em busca de novos desafios e oportunidades de crescimento, estou aqui para compartilhar conhecimentos e colaborar em projetos que façam a diferença.
 
 <div display="inline">
-    <h2>Cursando na Empresa HastagTreinamentos|HastagProgramaçao</h2> &nbsp;&nbsp;<img  width=100px height=50px  src= "https://www.hashtagtreinamentos.com/wp-content/uploads/2022/05/Logo-Hashtag-Original-100x45px.png"/>&nbsp;&nbsp;
+    <h2>Cursando na Empresa HastagTreinamentos | HastagProgramação</h2> &nbsp;&nbsp;<img  width=100px height=50px  src= "https://www.hashtagtreinamentos.com/wp-content/uploads/2022/05/Logo-Hashtag-Original-100x45px.png"/>&nbsp;&nbsp;
     Cursos em andamentos  Python Impressionador 57% & SQL Impressionador 26%
 </div>
 
