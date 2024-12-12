@@ -8,13 +8,14 @@ Sempre em busca de novos desafios e oportunidades de crescimento, estou aqui par
 
 <div display="inline">
     <h2>Cursando na Empresa HastagTreinamentos | HastagProgramação</h2> &nbsp;&nbsp;<img  width=100px height=50px  src= "https://www.hashtagtreinamentos.com/wp-content/uploads/2022/05/Logo-Hashtag-Original-100x45px.png"/>&nbsp;&nbsp;
-    Cursos em andamentos  Python Impressionador 78% & SQL Impressionador 26%
+    Cursos em andamentos <img  width=50px height= 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> Python Impressionador 78% & <img width=50px height= 50px  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" /> SQL Impressionador 26%
 </div>
 
 ### liguagem de programaçao, marcaçâo e IDEs
 
 <div display="inline">
     &nbsp;&nbsp;<img  width=50px height= 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />&nbsp;&nbsp;
+    <img width=50px height= 50px  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
     &nbsp;&nbsp;<img width=50px height= 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp;&nbsp;
     &nbsp;&nbsp;<img  width=50px height= 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;&nbsp;
     &nbsp;&nbsp;<img width=50px height= 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />&nbsp;&nbsp;
