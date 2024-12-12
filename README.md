@@ -8,7 +8,7 @@ Sempre em busca de novos desafios e oportunidades de crescimento, estou aqui par
 
 <div display="inline">
     <h2>Cursando na Empresa HastagTreinamentos | HastagProgramação</h2> &nbsp;&nbsp;<img  width=100px height=50px  src= "https://www.hashtagtreinamentos.com/wp-content/uploads/2022/05/Logo-Hashtag-Original-100x45px.png"/>&nbsp;&nbsp;
-    Cursos em andamentos <img  width=50px height= 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> Python Impressionador 93% & <img width=50px height= 50px  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" /> SQL Impressionador 29%,   <img width=50px height= 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />  JavaScript 15%
+    Cursos em andamentos &nbsp;&nbsp;<img  width=50px height= 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />&nbsp;&nbsp; Python Impressionador 93% & &nbsp;&nbsp;<img width=50px height= 50px  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />&nbsp;&nbsp; SQL Impressionador 29%  &nbsp;&nbsp;<img width=50px height= 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;&nbsp; JavaScript 15%
           
 </div>
 
@@ -16,8 +16,8 @@ Sempre em busca de novos desafios e oportunidades de crescimento, estou aqui par
 
 <div display="inline">
     &nbsp;&nbsp;<img  width=50px height= 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />&nbsp;&nbsp;
-    <img width=50px height= 50px  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />   
-    <img width=50px height= 50px  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />          
+    &nbsp;&nbsp;<img width=50px height= 50px  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />   
+    &nbsp;&nbsp;<img width=50px height= 50px  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />          
     &nbsp;&nbsp;<img width=50px height= 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp;&nbsp;
     &nbsp;&nbsp;<img  width=50px height= 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;&nbsp;
     &nbsp;&nbsp;<img width=50px height= 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />&nbsp;&nbsp;
