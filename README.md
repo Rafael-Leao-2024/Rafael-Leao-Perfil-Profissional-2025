@@ -16,6 +16,36 @@ Sempre em busca de novos desafios e oportunidades de crescimento, estou aqui par
 </div>
 
 ---
+# 🧠 Formação Completa em Python, IA e Dados
+
+Repositório com meus certificados e materiais de estudo ao longo da minha jornada de transição e desenvolvimento na área de **Tecnologia e Dados**. Este espaço documenta meus aprendizados práticos com as principais ferramentas do mercado.
+
+## 📄 Certificados incluídos:
+
+- ✅ **Python Impressionador**  
+- ✅ **SQL Impressionador**  
+- ✅ **Desenvolvimento Web com Flask e Django**  
+- ✅ **Dashboards com Streamlit, Dash e Power BI**  
+- ✅ **Agentes de IA com OpenAI, Hugging Face e Langchain**  
+- ✅ **Segredos do LinkedIn**
+
+## 🎯 Objetivo:
+
+Demonstrar minha dedicação contínua ao aprendizado em **programação**, **inteligência artificial**, **desenvolvimento web** e **análise de dados**. Este repositório serve como:
+
+- Portfólio público para recrutadores
+- Registro do meu progresso técnico
+- Inspiração para quem também está entrando na área
+
+---
+
+📬 Sinta-se à vontade para me contatar pelo [LinkedIn](https://www.linkedin.com/in/rafael-leao-472a27280/) ou explorar meus projetos públicos aqui no GitHub.
+
+<a href="https://www.linkedin.com/in/rafael-leao-472a27280/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Rafael Leão">
+</a>
+
+---
 
 ### liguagem de programaçao, marcaçâo e IDEs
 
