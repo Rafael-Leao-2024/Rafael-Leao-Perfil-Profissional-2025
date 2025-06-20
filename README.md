@@ -1,7 +1,6 @@
 ##                                                                                     RAFAEL LEAO
 ---
 
-### Sobre Mim
 Olá! Eu sou Rafael, profissional especializado em fechamento financeiro, com mais de 10 anos de experiência na Recife Placas. Ao longo da minha carreira, tenho sido responsável por assegurar a precisão e a integridade dos dados financeiros, além de preparar e enviar relatórios detalhados para as empresas que servimos.
 
 Minha dedicação e atenção aos detalhes garantem que nossos parceiros recebam informações financeiras precisas e em tempo hábil, contribuindo para uma tomada de decisão informada e estratégica.
